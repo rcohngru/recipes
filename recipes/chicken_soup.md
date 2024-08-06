@@ -18,6 +18,8 @@
 3. Chop vegetables into preferred sizes. Add to stock and simmer for 15 minutes.
 4. (Optional) If cooking rice directly into stock, add uncooked rice with vegetables.
 5. Chop up chicken into preferred sizes. Once vegetables/rice are cooked, add chicken to pot. Simmer until chicken is warmed through.
+6. If cooking rice or pasta separately, add in at the end. Alternatively, combine in final plating.
 6. Serve with a garnish of parsley.
 
 ### Notes
+- If adding rice directly to the pot, the rice will continue to absorb liquid after cooking.
