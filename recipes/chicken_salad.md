@@ -15,6 +15,7 @@
 ### Directions
 1. Chop up all ingredients and add to a bowl.
 2. Add mayonnaise and mustard to preference.
+3. Serve with crackers or in a sandwich.
 
 ### Notes
 - Add literally anything that sounds good here, this is a super basic one.
