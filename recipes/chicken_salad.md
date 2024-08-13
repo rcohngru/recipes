@@ -1,4 +1,5 @@
 # Chicken Salad
+[Basics](../lists/basics.md), [Salads](../lists/salads.md)
 
 ### Timing
 - Total Time: ~15 minutes
