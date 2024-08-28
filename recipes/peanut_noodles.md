@@ -1,6 +1,10 @@
 # Peanut Noodles
 [Basics](../lists/basics.md), [Pasta](../lists/pasta.md)
 
+### Timing
+- Total Time: ~30 minutes
+- Active Cooking Time: ~30 minutes
+
 ### Ingredients
 - [Spicy Peanut Sauce](../recipes/spicy_peanut_sauce.md)
 - Bell Pepper
