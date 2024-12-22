@@ -30,3 +30,5 @@
 
 ### Notes
 To add more protein, you can cook up some ground beef and add into the mixture as well.
+
+[Source](https://www.bonappetit.com/recipe/rigatoni-with-easy-vodka-sauce?srsltid=AfmBOopyKVf3Hrxvfj_b0ZcQhaS56jaAjc5F4YlNBQIXC6VwAYTKl_EW)

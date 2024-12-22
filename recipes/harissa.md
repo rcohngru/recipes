@@ -6,6 +6,7 @@
 - Active Cooking Time: ~60 minutes
 
 ### Ingredients
+- Olive oil
 - Red bell pepper
 - 6-8 Dried chile de arbol
 - 3 Dried california chile
@@ -27,3 +28,5 @@
 
 ### Notes
 Really good as a topping on top of [Crispy Chicken Thighs](crispy_chicken_thighs.md) alongside [Lemon Tahini Dressing](lemon_tahini_sauce.md)
+
+[Source](https://www.instagram.com/pierceabernathy/reel/COBB7gLnsBb/)
