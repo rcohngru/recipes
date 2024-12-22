@@ -20,4 +20,4 @@ By placing the thighs in a cold pan, the process of heating the pan will allow t
 
 Before putting the thighs on the stove, I like to stack another heavy pot or pan on top of them to weigh them down, so that there is more surface contact with the pan. You can put parchment paper in between to avoid dirtying another dish.
 
-This is a great base for a weeknight meal. You can finish it with some sauces like [Hariss](harissa.md) and [Lemon Tahini Dressing](lemon_tahini_dressing.md) and some sauteed vegetables.
+This is a great base for a weeknight meal. You can finish it with some sauces like [Harissa](harissa.md) and [Lemon Tahini Dressing](lemon_tahini_dressing.md) and some sauteed vegetables.

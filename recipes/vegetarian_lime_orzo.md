@@ -1,4 +1,4 @@
-# Crispy Chicken Thighs
+# Vegetarian Lime Orzo
 [Pasta](../lists/pasta.md)
 
 ### Timing
