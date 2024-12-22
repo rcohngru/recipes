@@ -1,6 +1,10 @@
 # Balsamic Vinaigrette
 [Dressings](../lists/dressings_marinades_sauces_salsas.md)
 
+### Timing
+- Total Time: ~5 minutes
+- Active Cooking Time: ~5 minutes
+
 ### Ingredients
 - 1/4C Olive oil
 - 1/4C High quality balsamic vinegar

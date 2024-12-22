@@ -1,6 +1,10 @@
 # Spicy Peanut Sauce
 [Sauces](../lists/dressings_marinades_sauces_salsas.md)
 
+### Timing
+- Total Time: ~5 minutes
+- Active Cooking Time: ~5 minutes
+
 ### Ingredients
 - 1/4C Oil (preferably sesame, but any will do)
 - 1/4C Soy Sauce

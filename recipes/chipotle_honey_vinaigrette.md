@@ -1,6 +1,10 @@
 # Chipotle Honey Vinaigrette
 [Dressings](../lists/dressings_marinades_sauces_salsas.md)
 
+### Timing
+- Total Time: ~5 minutes
+- Active Cooking Time: ~5 minutes
+
 ### Ingredients
 - Chipotle peppers in adobo
 - Red wine vinegar

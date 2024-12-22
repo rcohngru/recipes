@@ -4,3 +4,5 @@
 - [Pasta Salad](../recipes/pasta_salad.md)
 - [Peanut Noodles](../recipes/peanut_noodles.md)
 - [Vegetable & Sausage Pesto Spaghetti](../recipes/vegetable_sausage_spaghetti.md)
+- [Pasta Alla Vodka](../recipes/pasta_alla_vodka.md)
+- [Cripsy Chicken Thighs](../recipes/crispy_chicken_thighs.md) with [Harissa](../recipes/harissa.md) & [Lemon Tahini Dressing](../recipes/lemon_tahini_dressing.md)

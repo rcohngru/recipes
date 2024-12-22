@@ -1,6 +1,10 @@
 # Citrus Garlic Soy Marinade
 [Dressings](../lists/dressings_marinades_sauces_salsas.md)
 
+### Timing
+- Total Time: ~5 minutes
+- Active Cooking Time: ~5 minutes
+
 ### Ingredients
 - Orange
 - Meyer Lemon
